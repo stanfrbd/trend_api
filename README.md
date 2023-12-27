@@ -73,7 +73,7 @@ $ ./trend_api.py computers
 - An Excel (autofiltered) file will be created with datetime.
 
 ```
-PS C:\Users\Me\Test> python .\trend_api computers
+PS C:\Users\Me\Test> python .\trend_api.py computers
 0 agents are active, 49 agents have warnings, 63 agents have errors.
 Processed 110 API results.
 Successfully created 2023-12-27-14_56_58-trend-api-results.xlsx
